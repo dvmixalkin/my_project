@@ -1,0 +1,8 @@
+numpy
+torch
+torchvision
+mediapipe~=0.8.9.1
+cvzone~=1.5.6
+opencv-python~=4.5.5.62
+djitellopy~=2.4.0
+aiogram~=2.19
