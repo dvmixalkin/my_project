@@ -6,3 +6,5 @@ cvzone~=1.5.6
 opencv-python~=4.5.5.62
 djitellopy~=2.4.0
 aiogram~=2.19
+Pillow
+PyYAML
